@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF4B4B"  # Change to a custom primary color
+backgroundColor = "#1E1E1E"  # Background color for dark mode
+secondaryBackgroundColor = "#31333F"  # Secondary background color
+textColor = "#FAFAFA"  # Text color
+font = "sans serif"  # Optional: 'sans serif', 'serif', or 'monospace'
